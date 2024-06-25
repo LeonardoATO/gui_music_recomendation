@@ -1,0 +1,9 @@
+spotipy
+matplotlib
+scipy
+requests
+seaborn
+pandas
+numpy
+scikit-learn
+ipywidgets
