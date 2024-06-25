@@ -13,8 +13,8 @@ import requests
 import base64
 
 # Ingresar el ID y el secret del cliente
-CLIENT_ID = 'fd83f07767f34169ac0e437a7f942952'
-CLIENT_SECRET = '15ccc85d42984022b816df6448d565d7'
+CLIENT_ID = '13863bb0f23e4e49a02593bea4f5e032'
+CLIENT_SECRET = '12f0b32c2795405fa6d3bacee11e91b0'
 
 # Codificar el ID y el secret del cliente con Base64
 client_credentials = f"{CLIENT_ID}:{CLIENT_SECRET}"
