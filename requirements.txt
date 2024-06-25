@@ -5,5 +5,5 @@ requests
 seaborn
 pandas
 numpy
-scikit-learn
+sklearn
 ipywidgets
